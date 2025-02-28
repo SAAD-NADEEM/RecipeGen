@@ -1,6 +1,6 @@
 import streamlit as st
-from google import genai
 from pydantic import BaseModel, Field
+from google import genai
 import os
 from dotenv import load_dotenv
 
