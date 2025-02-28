@@ -1,0 +1,9 @@
+name: recipegen_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - streamlit
+  - google-genai
+  - pydantic
+  - python-dotenv
