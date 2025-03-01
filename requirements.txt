@@ -1,1 +1,1 @@
-google-genai
+genai==2.1.0
